@@ -1,1 +1,5 @@
-print("Meu nome é: " , end=)
+print(1//2*3)
+var = input('Digite seu nome: ')
+print("Seu nome é:", var)
+var = input('Digite sua idade:')
+print('Você tem:', var)
