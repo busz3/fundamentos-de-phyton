@@ -17,3 +17,4 @@ z = y = x = 1
 print(x, y, z, sep='*')
  
 print(20 * 30 / 50)
+
